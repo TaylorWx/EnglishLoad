@@ -1,0 +1,17 @@
+/target/
+
+.classpath
+.project
+.settings/org.eclipse.wst.common.component
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.project
+*.html
+.settings/org.eclipse.jdt.core.prefs
+.project
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.eclipse.jdt.core.prefs
+.project
+src/main/java/com/englishload/controller/WordsController.java
+src/main/java/com/englishload/controller/WordsController.java
+src/main/webapp/WEB-INF/course/courseplay.jsp
+src/main/java/com/englishload/controller/WordsController.java
