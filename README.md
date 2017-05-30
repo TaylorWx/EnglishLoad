@@ -1,17 +1,14 @@
-<<<<<<< HEAD
-﻿# EnglishLoad
-实训-基于SSM框架的在线英语学习
-注意点：
-技术框架：Spring +SpringMVC+MyBatis+Shiro+BootStrap
-jdk：1.81
-Tomcat 8
-Maven
-github
-
-修改记录：
-1.将user表的username属性字段改成unique
-
-修改记录：
+<body>
+实训-基于SSM框架的在线英语学习<br/>
+注意点：<br/>
+技术框架：Spring +SpringMVC+MyBatis+Shiro+BootStrap<br/>
+jdk：1.81<br/>
+Tomcat 8<br/>
+Maven<br/>
+github<br/>
+修改记录：<br/>
+1.将user表的username属性字段改成unique<br/>
+修改记录：<br/>
 1.增加权限表，用户角色和权限之间的关联表，并修改了用户表的一些字段，增加了salt盐字段<br/>
 2.修改用户增加功能，将用户的增加的密码和盐进行md5校验，并存放数据库中<br/>
 3.shiro认证和授权的部分配置完成，目前后台登录，用户名admin，密码111111<br/>
@@ -28,6 +25,4 @@ github
 14.前台登陆名zhangsan,密码111111，注册整合完成<br/>
 15.课程上传功能完成<br/>
 16.点击视频增加点击率，并按照人气排序。<br/>
-=======
-# EnglishLoad
->>>>>>> 98fc158158dca5361a644d8c6ca1f9312bcf654e
+</body>
